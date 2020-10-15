@@ -1,4 +1,4 @@
-## 🔓 Welcome to my personal code vault.
+## 👋 Ahoy!
 
 <p>I'm a father of two and spend my days in my shed. I promise that my home and office space are more organised that my repos. We can't all be perfect all of the time... <p/>
 
