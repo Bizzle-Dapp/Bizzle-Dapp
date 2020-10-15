@@ -1,6 +1,6 @@
 ## 👋 Ahoy!
 
-<p>I'm a father of two and spend my days in my shed. I promise that my home and office space are more organised that my repos. We can't all be perfect all of the time... <p/>
+<p>I promise that my home and office space are more organised than my repos. We can't all be perfect all of the time... <p/>
 
 ### I play with various languages including:
 <span><img src="https://img.icons8.com/dusk/2x/python.png" width="50" height="50" />
