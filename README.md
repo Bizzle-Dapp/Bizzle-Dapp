@@ -1,6 +1,6 @@
 ## 👋 Ahoy!
 
-<p>This is personal GitHub - essentially a dumping ground of mock projects, playgrounds and tests of concepts.<p/>
+<p>This is my personal GitHub - a glorious dumping ground of mock projects, playgrounds and tests of concepts.<p/>
 
 ## My stack is primarily:
 
